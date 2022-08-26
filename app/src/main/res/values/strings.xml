@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Cinematiq</string>
+    <string name="textview">Успех это твой долг,обязанность и ответственность</string>
+    <string name="menuButton">МЕНЮ</string>
+    <string name="favoritesButton">ИЗБРАННОЕ</string>
+    <string name="watchLaterButton">ПОСМОТРЕТЬ ПОЗЖЕ</string>
+    <string name="collectionsButton">ПОДБОРКИ</string>
+    <string name="settingsButton">НАСТРОЙКИ</string>
+    <string name="movie_posters">Постеры предоставили movieposters.com</string>
 </resources>
